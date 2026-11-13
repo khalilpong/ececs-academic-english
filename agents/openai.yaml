@@ -1,4 +1,4 @@
 interface:
-  display_name: "ECECS Academic English"
-  short_description: "Natural undergraduate English with evidence-aware editing"
-  default_prompt: "Use $ececs-academic-english to lightly polish this coursework passage without changing its meaning, data, citations or evidence strength."
+  display_name: "Academic English for Coursework"
+  short_description: "Natural, evidence-aware academic English for reports and assignments in any course"
+  default_prompt: "Use $ececs-academic-english to lightly polish this assignment passage without changing its meaning, data, citations or evidence strength."
