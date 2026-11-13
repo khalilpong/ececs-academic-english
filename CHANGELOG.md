@@ -12,6 +12,7 @@ Generalised the skill for written assignments and reports in any course, and for
 - New `tests/` with ten cross-discipline behaviour cases.
 - Explanation language now defaults to the user's language; English variety keeps the text's existing variety (British if none).
 - Skill name `ececs-academic-english` kept for compatibility with existing installs.
+- Added an MIT licence.
 
 ## 1.0.0 — 2026-10-19
 

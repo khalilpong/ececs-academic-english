@@ -65,6 +65,10 @@ Say them in your request, for example "use American spelling", "target CEFR B2" 
 3. Run the cases in [tests/](tests/README.md) on at least one model.
 4. Record the change in [CHANGELOG.md](CHANGELOG.md).
 
+## Licence
+
+[MIT](LICENSE). You may use, adapt and share the skill, keeping the copyright notice.
+
 ---
 
 ## 中文说明
@@ -91,3 +95,7 @@ Say them in your request, for example "use American spelling", "target CEFR B2" 
 ### 可调整的设置
 
 在请求里直接说明即可，例如“用美式拼写”“目标 CEFR B2”“用英文解释”。可以调整的有：目标水平、英语变体、修改深度、解释语言和引用格式。
+
+### 许可协议
+
+采用 [MIT](LICENSE) 许可：可以自由使用、修改和分享，需保留版权声明。
